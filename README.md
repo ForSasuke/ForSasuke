@@ -22,22 +22,22 @@ ___________________________________________________________________
   
   <picture>
     <source alt="github_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ForSasuke&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&custom_title=ForSasuke's Statistics">
-    <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=ForSasuke&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&custom_title=&icon_color=79ff97&show_icons=true">
+    <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=ForSasuke&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&custom_title=.&icon_color=79ff97&show_icons=true">
   </picture>
   
   <picture>
-    <source alt="github_streak_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=react&background=0D1117&count_private=true&hide_border=true">
-    <img alt="github_langs" src="https://github-readme-streak-stats.herokuapp.com/?user=Huseyin-Cinar&theme=github-light&count_private=true&hide_border=true">
+    <source alt="github_streak_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ForSasuke&theme=react&background=0D1117&count_private=true&hide_border=true">
+    <img alt="github_langs" src="https://github-readme-streak-stats.herokuapp.com/?user=ForSasuke&theme=github-light&count_private=true&hide_border=true">
   </picture>
   
   <picture>
-    <source alt="github_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117">
-    <img alt="github_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huseyin-Cinar&layout=compact&theme=github-light&count_private=true&hide_border=true">
+    <source alt="github_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ForSasuke&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117">
+    <img alt="github_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForSasuke&layout=compact&theme=github-light&count_private=true&hide_border=true">
   </picture>
   
   <picture>
-    <source alt="github_trophy" media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=dark_lover&count_private=true&rank=-?,-C">
-    <img alt="github_trophy" src="https://github-profile-trophy.vercel.app/?username=Huseyin-Cinar&theme=light&count_private=true&rank=-?,-C">
+    <source alt="github_trophy" media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ForSasuke&theme=dark_lover&count_private=true&rank=-?,-C">
+    <img alt="github_trophy" src="https://github-profile-trophy.vercel.app/?username=ForSasuke&theme=light&count_private=true&rank=-?,-C">
   </picture>
 
 <!--<a style="display:none;" href="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=dracula"><img src="https://activity-graph.herokuapp.com/graph?username=Huseyin-Cinar&theme=react&bg_color=0D1117&bg_color=0D1117"></a>-->
