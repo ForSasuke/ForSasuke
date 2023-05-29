@@ -21,8 +21,8 @@ ___________________________________________________________________
   <summary><code><i>My GitHub Statistics</i></code></summary>
   
   <picture>
-    <source alt="github_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&custom_title=Huseyin+Cinar's+Github+Stats">
-    <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&custom_title=Huseyin+Cinar's+Github+Stats&icon_color=79ff97&show_icons=true">
+    <source alt="github_stats" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ForSasuke&show_icons=true&count_private=true&theme=react&bg_color=0D1117&hide_border=true&custom_title=ForSasuke's Statistics">
+    <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=ForSasuke&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&custom_title=&icon_color=79ff97&show_icons=true">
   </picture>
   
   <picture>
