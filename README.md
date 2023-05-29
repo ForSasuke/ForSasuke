@@ -6,13 +6,6 @@
 
 #### <p align="center">This is <b>ForSasuke's</b> <img width="20px" height="20px" src="https://em-content.zobj.net/thumbs/72/apple/354/beaming-face-with-smiling-eyes_1f601.png"> <i>CV</i> <img width="20px" height="20px" src="https://em-content.zobj.net/thumbs/72/apple/354/beaming-face-with-smiling-eyes_1f601.png"> document.</p><br>
 
-<details align="center" open>
-  <summary>Profile Views <code>maybe i increased it a little bit :)</code></summary>
-  <a align="center" target="_blank" rel="noopener noreferrer" href="https://futuree.netlify.app/en"><picture>
-    <source alt="profile_views" media="(prefers-color-scheme: dark)" srcset="https://count.getloli.com/get/@Huseyin-Cinar?theme=moebooru">
-    <img alt="profile_views" src="https://count.getloli.com/get/@Huseyin-Cinar?theme=rule34">
-  </picture></a></details>
-
 ___________________________________________________________________
 ### <div align="center">Some things I'm doing right now;</div>
  
