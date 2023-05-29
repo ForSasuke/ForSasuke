@@ -11,7 +11,7 @@ ___________________________________________________________________
  
  
    - <img src="https://tryhackme.com/img/favicon.png" width="20px" height="20px"> ***I am 16 years old and I work in the field of Cyber Security.***
-   - :shipit: ***I am working on [TeknoFest](https://www.teknofest.org/tr/) from Home in Turkiye,***
+   - <img src="[https://github.githubassets.com/images/icons/emoji/unicode/1f320.png?v8](https://cdn.teknofest.org/media/upload/userFormUpload/AKSXAkzWtSKS1EnC4zlsSRPqEqjXe4Gl_eyYCj.png)" width="25px" height="25px"> ***I am working on [TeknoFest](https://www.teknofest.org/tr/) from Home in Turkiye,***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f320.png?v8" width="25px" height="25px"> ***I can speaking <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11">English, <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11">Turkish and a little bit <img src="https://futuree.netlify.app/resimler/de_flag.png" width="16" height="10">German.***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="20px" height="20px"> ***You can find all my links for advertising and collaborations [here](https://futuree.netlify.app/feedback),***
    -  ***Looks like you need help,***
