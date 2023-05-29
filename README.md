@@ -15,19 +15,7 @@ ___________________________________________________________________
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f320.png?v8" width="25px" height="25px"> ***I can speaking <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11">English, <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11">Turkish and a little bit <img src="https://futuree.netlify.app/resimler/de_flag.png" width="16" height="10">German.***
    - <img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ=w240-h480-rw" width="25px" height="25px"> ***My connections;***
      - <a href="https://discord.gg/Xe8WjzE74b" target="_blank"> ***Discord***</a>
-    
-<hr>
-<details align="center" open>
-  <summary><code><i>Discord Profile</i></code></summary>
-<div align="center">
- <picture>
-    <source alt="discord_profile" media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/812070061384138822?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
-    <img alt="discord_profile" src="https://lanyard.cnrad.dev/api/812070061384138822?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
-  </picture>
- </div>
-<br>
-<!-- https://discord.com/users/782246367204605953 https://twitter.com/Hseyinn59612876 https://instagram.fada1-13.fna.fbcdn.net/v/t51.2885-15/324387181_886124632524619_3821253639782888693_n.jpg?stp=dst-jpg_e35_p240x240&_nc_ht=instagram.fada1-13.fna.fbcdn.net&_nc_cat=107&_nc_ohc=2A1hFYFSeZ8AX_pbDeu&edm=AEw_LKABAAAA&ccb=7-5&ig_cache_key=MzAxNDIwODgwNjI5Nzc5NTA1Ng%3D%3D.2-ccb7-5&oh=00_AfAFtL0ncBch5WdgdRgoOiDWxI_3MCa0HiWYgh3nsdRpng&oe=63FC72AA&_nc_sid=c7f314,,,,,&idleMessage=herhangi%20birşey%20yapmıyorum!<div style="text-align:center;display:none;" title="Github Stats"><a href="https://futuree.netlify.app"><img src="https://github-readme-stats.vercel.app/api?username=Huseyin-Cinar&show_icons=true&theme=merko"></img><a/></div><br></CENTER>--></details>
-<hr>
+   
   
   <details align="center" open>
   <summary><code><i>My GitHub Statistics</i></code></summary>
