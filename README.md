@@ -13,9 +13,8 @@ ___________________________________________________________________
    - <img src="https://tryhackme.com/img/favicon.png" width="20px" height="20px"> ***I am 16 years old and I work in the field of Cyber Security.***
    - <img src="https://cdn.teknofest.org/media/upload/userFormUpload/AKSXAkzWtSKS1EnC4zlsSRPqEqjXe4Gl_eyYCj.png" width="25px" height="25px"> ***I am working on [TeknoFest](https://www.teknofest.org/tr/) from Home in Turkiye,***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f320.png?v8" width="25px" height="25px"> ***I can speaking <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11">English, <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11">Turkish and a little bit <img src="https://futuree.netlify.app/resimler/de_flag.png" width="16" height="10">German.***
-   - :basecamp: ***My connections;***
+   - <img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ=w240-h480-rw" width="25px" height="25px"> ***My connections;***
      - <a href="https://discord.gg/Xe8WjzE74b" target="_blank"><img src="" width="20px" height="20px"> ***Discord***</a>
-***My Discord Server***</a>
     
 <hr>
 <details align="center" open>
