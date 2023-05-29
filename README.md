@@ -15,27 +15,21 @@ ___________________________________________________________________
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f320.png?v8" width="25px" height="25px"> ***I can speaking <img src="https://futuree.netlify.app/resimler/en-flag.svg" width="16" height="11">English, <img src="https://futuree.netlify.app/resimler/tr-flag.svg" width="16" height="11">Turkish and a little bit <img src="https://futuree.netlify.app/resimler/de_flag.png" width="16" height="10">German.***
    - :dependabot: ***I stopped making Discord bots but I still do to special requests,***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="20px" height="20px"> ***You can find all my links for advertising and collaborations [here](https://futuree.netlify.app/feedback),***
-   - :electron: ***Currently, I am website creating with HTML, CSS and Javascript,***
-   - :fishsticks: ***Looks like you need help,***
-   - :basecamp: ***Ask me questions from my e-mail addresses,***
-     - ***huseyinncinar0@gmail.com***
+   -  ***Looks like you need help,***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png?v8" width="20px" height="20px"> ***Let me find a solution to your problems,***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f970.png?v8" width="20px" height="20px"> ***Trustworthy,***
    - <img src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png?v8" width="20px" height="20px"> ***And quickly...***
    - :basecamp: ***My connections;***
-     - <a href="https://huseyincinar.netlify.app" target="_blank"><img src="https://avatars.githubusercontent.com/u/84516708?s=20&v=4" width="20px" height="20px"> ***Personal Website***</a>
-     - <a href="https://futuree.netlify.app" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of Future (Turkish)***</a>
-     - <a href="https://futuree.netlify.app/en" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of Future (English)***</a>
-     - <a href="https://futuree.netlify.app/fr" target="_blank"><img src="https://futuree.netlify.app/resimler/futurelogo.png" width="20px" height="20px"> ***Website of Future (Franch)***</a>
-     - <a href="https://futuree.netlify.app/dc" target="_blank"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="20px" height="20px"> ***My Discord Server***</a>
+     - <a href="https://discord.gg/Xe8WjzE74b" target="_blank"><img src="" width="20px" height="20px"> ***Discord***</a>
+***My Discord Server***</a>
     
 <hr>
 <details align="center" open>
   <summary><code><i>Discord Profile</i></code></summary>
 <div align="center">
  <picture>
-    <source alt="discord_profile" media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
-    <img alt="discord_profile" src="https://lanyard-profile-readme.vercel.app/api/782246367204605953?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
+    <source alt="discord_profile" media="(prefers-color-scheme: dark)" srcset="https://lanyard-profile-readme.vercel.app/api/812070061384138822?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
+    <img alt="discord_profile" src="https://lanyard-profile-readme.vercel.app/api/812070061384138822?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=I'm+probably+writing+code+on+Github.">
   </picture>
  </div>
 <br>
