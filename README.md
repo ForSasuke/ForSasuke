@@ -54,6 +54,8 @@ ___________________________________________________________________
     <br><br>
    | <code><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></code> |
     <br><br>
+    | <code><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"></code> |
+    <br><br>
         
   </div>
 </details>
